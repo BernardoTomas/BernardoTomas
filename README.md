@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi!
 
+###### I am a junior full stack developer, having recently finished a full stack web development course at [@Trybe](https://github.com/betrybe)
+
+My most developed skills lie in React.js, Node.js, vanilla JS/Typescript, and CSS. 
+I am also familiar with SQL, express.js, Sequelize, Jest, Mocha, Docker, Redux, MSC architecture, CRUD systems, and a little of SOLID OOP.
 <!--
 **BernardoTomas/BernardoTomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
