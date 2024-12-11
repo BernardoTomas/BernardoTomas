@@ -1,22 +1,28 @@
-## Hi!
+# Hi!
 
-### I'm a junior full stack developer, having recently finished a full stack web development course at [@Trybe](https://github.com/betrybe)
-
-#### 🛠️ Current work:
+I'm a junior full stack developer, having recently finished a full stack web development course at [@Trybe](https://github.com/betrybe) 
+<br>
+<br>
+### 🛠️ Current work:
 Currently I work as a freelance web designer and full stack dev, visit my [LinkedIn](https://www.linkedin.com/in/bernardocan%C3%A7ado/) to see some of my work!
-
-#### :smiley: Things I enjoy:
+<br>
+<br>
+### :smiley: Things I enjoy:
 I enjoy learning about Object oriented programming, game design, and graphic desgin in general (mostly web design, digital painting, and asset creation). Also reading scifi and fantasy novels, and gaming.
-
-#### :pencil2: Currently learning:
+<br>
+<br>
+### :pencil2: Currently learning:
 C# and expanding on my knowledge of JavaScript frontend frameworks, namely React and Next.js
-
-#### You can reach me at:
+<br>
+<br>
+### You can reach me at:
  - [![linkedin-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardocan%C3%A7ado/)
  - Or you can send me an email at bernardotomas.c14@gmail.com
+<br>
+<br>
 
+### My stacks:
 
-#### My stacks:
 ![chai-badge](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![docker-badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![expressjs-badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
